@@ -1,9 +1,6 @@
 <div align="center">
 
 ## ¡Hola! Soy CONSTANZA 👋
-
-### Analista de Datos | Desarrollador de Soluciones de Negocio
-
 <img width="528" height="303" alt="portada" src="https://github.com/user-attachments/assets/af019901-3ddf-4615-ba39-486f5ac97c9c" />
 
 </div>
