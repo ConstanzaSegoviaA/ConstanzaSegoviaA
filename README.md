@@ -21,12 +21,14 @@ Soy una apasionada que transforma datos en decisiones estratégicas. Mi enfoque 
 
 ### 🛠️ Tecnologías y Herramientas
 
+<div align="center">
 
 | Categoría | Herramientas |
 | :--- | :--- |
 | **Lenguajes** | ![Python](https://shields.io) ![SQL](https://shields.io) |
 | **Data & BI** | ![Power Bi](https://shields.io) ![Tableau](https://shields.io) |
 | **Backend** | ![Flask](https://shields.io) ![APIs](https://shields.io) |
+
 
 ---
 
