@@ -25,9 +25,9 @@ Soy una apasionada que transforma datos en decisiones estratégicas. Mi enfoque 
 
 | Categoría | Herramientas |
 | :--- | :--- |
-| **Lenguajes** | ![Python](https://shields.io) ![SQL](https://shields.io) |
-| **Data & BI** | ![Power BI](https://shields.io) ![Tableau](https://shields.io) |
-| **Backend** | ![Flask](https://shields.io) ![APIs](https://shields.io) |
+| **Lenguajes** | 🐍 [Python](https://python.org) • 🗄️ [SQL](https://wikipedia.org) |
+| **Data & BI** | 📊 [Power BI](https://microsoft.com) • 🎨 [Tableau](https://tableau.com) |
+| **Backend** | 🌶️ [Flask](https://palletsprojects.com) • 🔌 [APIs](https://wikipedia.org) |
 
 </div>
 
