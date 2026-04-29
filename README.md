@@ -27,7 +27,6 @@ Soy una apasionada que transforma datos en decisiones estratégicas. Mi enfoque 
 | :--- | :--- |
 | **Lenguajes** | 🐍 [Python](https://python.org) • 🗄️ [SQL](https://wikipedia.org) |
 | **Data & BI** | 📊 [Power BI](https://microsoft.com) • 🎨 [Tableau](https://tableau.com) |
-| **Backend** | 🌶️ [Flask](https://palletsprojects.com) • 🔌 [APIs](https://wikipedia.org) |
 
 </div>
 
@@ -39,9 +38,4 @@ Soy una apasionada que transforma datos en decisiones estratégicas. Mi enfoque 
 *   📊 **Mira mi Portafolio en [csegovia](https://fade-manual-34383307.figma.site/)**
 *   ✍️ **Explora mis proyectos**
 
----
-
-<div align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" />
-</div>
 
