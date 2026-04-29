@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
 Soy una apasionada que transforma datos en decisiones estratégicas. Mi enfoque principal es el **análisis de datos** y el **desarrollo de integraciones eficientes** para optimizar procesos de negocio.
 
@@ -19,14 +19,14 @@ Soy una apasionada que transforma datos en decisiones estratégicas. Mi enfoque 
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 <div align="center">
 
 | Categoría | Herramientas |
 | :--- | :--- |
-| **Lenguajes** | 🐍 [Python](https://python.org) • 🗄️ [SQL](https://wikipedia.org) |
-| **Data & BI** | 📊 [Power BI](https://microsoft.com) • 🎨 [Tableau](https://tableau.com) |
+| **Lenguajes** | 🐍 [Python](https://python.org) • 🗄️ [SQL](https://https://www.mysql.com/) |
+| **Data & BI** | 📊 [Power BI](https://www.microsoft.com/es-es/power-platform/products/power-bi) • 🎨 [Tableau](https://tableau.com) |
 
 </div>
 
